@@ -1,2 +1,3 @@
-# documentation
-Documentation for AppFwk Project (Application Metadata Framework)
+# [AppFwk = Application Metadata Framework](https://appfwk.tk/)
+
+# [AppFwk Documentation](https://appfwk.github.io/documentation)
