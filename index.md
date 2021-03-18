@@ -1,37 +1,45 @@
-## Welcome to GitHub Pages
+# [AppFwk = Application Metadata Framework](https://appfwk.tk/)
 
-You can use the [editor on GitHub](https://github.com/appfwk/documentation/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[https://appfwk.tk](https://appfwk.tk/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Features
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Metadata Modeling
 
-# Header 1
-## Header 2
-### Header 3
+Metadata is core concept of our App Framework. When you have metadata you are able to do everything.
 
-- Bulleted
-- List
+* UI Metadata modeling
+* Multi tenant and multi project envrionment
+* Versioning
+* Check our targets bellow
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### OpenAPI Target
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Replacement for apps like SwaggerHub, apiary, ...
 
-### Jekyll Themes
+* UI Metadata Api Definition
+* Re-Use meta models for API inputs and outputs
+* Versioning
+* No OpenApi, JSon, Yaml, ... skills are required
+* No development skills are required
+* Security included
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/appfwk/documentation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Other Targets in progress
+
+Target is transformation metadata in something real. Check our targets and plans. Your suggestion is welcome.
+
+* REST API (OpenApi)
+* Source Code Generators (Models, Services, APIs)
+* Software Documentation
+* Apps Generators
+* Libraries for programming with metadata
+* .NET Reflection replacement
+
+
+Do you have any question? Do not hesitate to Contact us [https://appfwk.tk](https://appfwk.tk/)
